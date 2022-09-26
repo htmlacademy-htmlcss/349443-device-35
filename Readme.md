@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Антон Бойцов](https://up.htmlacademy.ru/htmlcss/35/user/349443).
-* Наставник: `Неизвестно`.
+* Наставник: `Евгений Котов` (https://htmlacademy.ru/profile/evgeniy_kotov).
 
 ---
 
